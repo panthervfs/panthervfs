@@ -1,4 +1,18 @@
-### Hi there 👋
+### Aloha mai, I'm @panthervfs 👋 🌴 🌴
+
+#### Professional Interests
+- Docker
+- Network
+- API Best Practices
+
+#### Personal Interests
+- 👽 Star Trek
+- 👾 Sci-fi
+
+#### Hobbies
+- 💻 Homelabing/Networking
+- 🪵 Woodworking
+- 🚲 Bicycling
 
 <!--
 **panthervfs/panthervfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
